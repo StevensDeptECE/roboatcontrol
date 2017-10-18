@@ -25,3 +25,13 @@ history of all pictures
 list of waypoints
 
 Create a display to visualize all this information
+
+
+send commands:
+
+goto waypoint
+load new waypoints
+turn to 030 degrees
+
+take picture with camera n
+set propellor(i, speed)
